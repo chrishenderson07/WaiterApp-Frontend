@@ -9,7 +9,7 @@ export const Container = styled.div`
 	align-items: center;
 	justify-content: center;
 	flex: 1;
-	header {
+	> header {
 		padding: 0.8rem;
 		font-size: 1.4rem;
 		display: flex;

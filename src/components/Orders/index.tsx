@@ -5,7 +5,7 @@ import { Container } from './styles'
 
 const orders: Order[] = [
 	{
-		_id: 'XXXXXXXXXXXXXXXXXXXXXXXX',
+		_id: '65c0b684a22391f7ca98a14a',
 		table: 'XXXXXX',
 		status: 'WAITING',
 		products: [
